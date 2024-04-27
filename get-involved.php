@@ -456,6 +456,7 @@
     width: 33%;
     padding: 14px 16px;
     transition: 0.1s;
+    white-space: nowrap;
 }
 .subtab button.active {
     color: #e2883c;
